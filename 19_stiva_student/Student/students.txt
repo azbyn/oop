@@ -1,0 +1,9 @@
+Popescu Vasile,1870814336046,l6o,3
+  Alexandrescu Andrei  , 1980526460627, 700, 3
+Georgescu Andreea, c, 123, 600, 2
+
+  Ionescu Ciprian, 5231206345660, -45, 2  
+Munteanu Veronica  , 6040727322511, 500, 1
+Vasilescu Robert, 1671117187061, 500 1
+Ionita Veronica, 5060609086020, 500, 1,
+Vasilescu Iuliana, 2550206298552, 1

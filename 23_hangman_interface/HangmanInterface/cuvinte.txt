@@ -1,0 +1,1 @@
+/home/azbyn/Projects/oop/23_hangman_interface/HangmanInterface/bin/Debug/cuvinte.txt

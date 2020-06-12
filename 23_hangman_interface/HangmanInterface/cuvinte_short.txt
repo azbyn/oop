@@ -1,0 +1,1 @@
+/home/azbyn/Projects/oop/12_hangman/cuvinte_short.txt

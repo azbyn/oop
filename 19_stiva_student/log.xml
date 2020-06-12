@@ -1,0 +1,36 @@
+<line>
+	<line_number>1</line_number>
+	<line_text>Popescu Vasile,1870814336046,l6o,3</line_text>
+	<error_code>22</error_code>
+	<error_text>Can't parse 'l6o' to uint</error_text>
+</line>
+<line>
+	<line_number>3</line_number>
+	<line_text>Georgescu Andreea, c, 123, 600, 2</line_text>
+	<error_code>42</error_code>
+	<error_text>Expected 4 values, got more</error_text>
+</line>
+<line>
+	<line_number>4</line_number>
+	<line_text>  Ionescu Ciprian, 5231206345660, -45, 2  </line_text>
+	<error_code>22</error_code>
+	<error_text>Can't parse '-45' to uint</error_text>
+</line>
+<line>
+	<line_number>6</line_number>
+	<line_text>Vasilescu Robert, 1671117187061, 500 1</line_text>
+	<error_code>42</error_code>
+	<error_text>Expected 4 values, got 3</error_text>
+</line>
+<line>
+	<line_number>7</line_number>
+	<line_text>Ionita Veronica, 5060609086020, 500, 1,</line_text>
+	<error_code>42</error_code>
+	<error_text>Expected 4 values, got more</error_text>
+</line>
+<line>
+	<line_number>8</line_number>
+	<line_text>Vasilescu Iuliana, 2550206298552, 1</line_text>
+	<error_code>42</error_code>
+	<error_text>Expected 4 values, got 3</error_text>
+</line>

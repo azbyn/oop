@@ -1,0 +1,14 @@
+*.log
+*.aux
+*.toc
+*.out
+*/build
+bin/*
+bin
+obj
+.vs
+_minted-*
+test
+a.out
+cpp_latex
+auto
